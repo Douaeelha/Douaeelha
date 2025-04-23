@@ -31,9 +31,9 @@
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Douaeelha&show_icons=true&theme=tokyonight&title_color=FF69B4&text_color=DAC7D5&icon_color=FFB6C1)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Douaeelha&show_icons=true&count_private=true&theme=pastel-on-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douaeelha&layout=compact&theme=tokyonight&langs_count=5&title_color=FF69B4&text_color=DAC7D5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Douaeelha&layout=compact&theme=pastel-on-dark)
 
 ---
 
