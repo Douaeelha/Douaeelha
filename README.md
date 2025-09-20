@@ -1,4 +1,5 @@
 # 👋 Hey there, I'm Douae!  
+[![delhajou's 42 stats](https://badge.mediaplus.ma/starryblue/delhajou)](https://github.com/oakoudad/badge42)
 
 > “I break things to understand them.”  
 
