@@ -11,23 +11,18 @@
 - 🧩 **C Programming** – but make every standard function forbidden  
 - 🐚 **Shell Scripting** 
 - 🔍 **Debugging** – with love, confusion, and a sprinkle of panic  
-- 🛑 Learning to **segfault less** and **free more** and **to save**
-
 ---
 
 ### 💻 How I Code  
 - 💡 **Hardcoded solutions™** – because “flexible” is for future me  
-- 🔄 **Trial. Error. Panic. Curse. Repeat.**  
-- 🍝 **Spaghetti code**, but with ✨ love ✨  
-- 🛠️ Learning by *doing*, *breaking*, and *fixing*
+- 🔄 **Trial. Error. Panic. Curse. Repeat.**   
+- 🛠️ Learning by *doing*, *building*, and *fixing*
 
 ---
 
 ### 🔧 Projects & Stuff  
-- 🏗️ Building things that *mostly* work  
-- 🐛 Turning bugs into personality traits  
 - 🚀 Slowly leveling up one project at a time  
-🔗 [Explore my chaotic creations](https://github.com/Douaeelha?tab=repositories)
+🔗 [Explore my creations](https://github.com/Douaeelha?tab=repositories)
 
 ---
 
