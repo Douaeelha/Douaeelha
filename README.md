@@ -15,7 +15,7 @@
 
 ### 💻 How I Code  
 - 💡 **Hardcoded solutions™** – because “flexible” is for future me  
-- 🔄 **Trial. Error. Panic. Curse. Repeat.**   
+- 🔄 **Trial. Error. Repeat.**   
 - 🛠️ Learning by *doing*, *building*, and *fixing*
 
 ---
