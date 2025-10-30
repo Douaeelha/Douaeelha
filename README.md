@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm Douae!  
 [![delhajou's 42 stats](https://badge.mediaplus.ma/starryblue/delhajou)](https://github.com/oakoudad/badge42)
 
-> “I mess things up to understand them.”  
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJzZzYyc2FmbmlxNHdhNzVqOXV2dWJmbWV0NXhsYzhmOWhqa2RibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" align="right" width="200px" />
 
